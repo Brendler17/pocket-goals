@@ -23,6 +23,7 @@
 É um projeto para controle de metas através do terminal. Nele é possível adicionar metas, listá-las, marcar/desmarcar uma meta e também removê-las. Foi desenvolvido utilizando JavaScript e o Node.JS para sua execução, a lib Inquirer para iteração com o usuário e o filesystem para persistência de dados.
   
 <br>
+<br>
 
 <h2 id="func">⚔ Funcionalidades Implementadas</h2>
 
@@ -61,4 +62,4 @@ node index.js
 ```
 
 > Pronto 🎉 se tudo ocorreu conforme o esperado 😁 a aplicação estará
-> rodando no seu terminal, esperando suas intruções.
+> rodando no seu terminal, esperando suas instruções.
