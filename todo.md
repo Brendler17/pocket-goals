@@ -1,0 +1,10 @@
+- [x] Criar metas
+- [x] Listar metas
+  - [X] Realizadas
+  - [X] Em aberto
+- [x] Marcar/desmarcar metas realizadas
+- [X] Remover metas
+  - [X] Múltiplas
+  - [X] Única
+- [x] Sistema de mensagens
+- [x] Persistir dados
